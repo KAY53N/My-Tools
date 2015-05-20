@@ -2,6 +2,7 @@
 #-*-coding:utf-8-*-
 # Author: Kaysen
 # Date: 2014-09-13
+# 采集乐峰数据脚本，用于后台统计图分析价格和其他属性的变化情况
 
 import re
 import urllib

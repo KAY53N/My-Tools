@@ -2,6 +2,7 @@
 #-*-coding:utf-8-*-
 # Author: Kaysen
 # Date: 2015-05-20
+# 自动生成目录的安全文件脚本，避免某些服务器开启了目录浏览权限后可以直接在浏览器输入URL地址查看目录
 
 import sys
 import os
