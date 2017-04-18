@@ -2,7 +2,7 @@
 /**
  * Author: Kaysen <kaysen820@gmail.com>
  * CreateTime: 2017/4/17 14:38
- * Description: 批量检测PHP语法脚本
+ * Description: 批量检测PHP语法脚本，使用[php scanPhpSyntax.php /home/webroot]
  */
 header('Content-type:text/html; charset=utf-8');
 
